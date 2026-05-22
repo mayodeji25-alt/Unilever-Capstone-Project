@@ -33,7 +33,7 @@ Unilever's existing canteen system was plagued by long queues, limited food choi
 
 ---
 ##  AS-IS Process
-![AS-IS Process](./screenshots/as-is-process.png)
+![AS-IS Process](AS-IS%20Process.png)
 ---
 ## ✅ Proposed Solution
 
