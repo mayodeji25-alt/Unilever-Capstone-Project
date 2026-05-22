@@ -4,7 +4,7 @@ A Business Analysis capstone project designed by **Team Agile** (April 2023 Coho
 
 ---
 
-## 📄[View the full project PDF](docs./docs/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
+## 📄[View the full project PDF](Agile Team./docs/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
 
 
 ## 📌 Project Overview
@@ -104,17 +104,6 @@ Screenshots of the Jira backlog and sprint boards are included in the [`/screens
 5. **Weeks 12–13** — Training & Change Management
 6. **Weeks 14–15** — Data Migration & Go-Live Preparation
 7. **Ongoing** — Go-Live & Post-Implementation Support
-
----
-
-## 📊 Key Performance Indicators (KPIs)
-
-- Food wastage reduction: **75%**
-- Wait time reduction: **75%**
-- Employee satisfaction improvement: **+50%**
-- Menu variety & availability: **89%**
-- Cost savings: **20%**
-- System uptime: **Meets agreed SLA**
 
 ---
 
