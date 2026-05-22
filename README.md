@@ -4,7 +4,7 @@ A Business Analysis capstone project designed by **Team Agile** (April 2023 Coho
 
 ---
 
-## 📄[View the full project PDF](Agile Team/docs/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
+## 📄[View the full project PDF](Agile_Team/docs/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
 
 
 ## 📌 Project Overview
