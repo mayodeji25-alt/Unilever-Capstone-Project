@@ -35,16 +35,10 @@ Unilever's existing canteen system was plagued by long queues, limited food choi
 ##  AS-IS Process
 ![AS-IS Process](AS-IS%20Process.png)
 ---
-## ✅ Proposed Solution
+## ✅ TO-BE Process
+![TO-BE Process](/TO-BE%20Process.png)
 
-A **custom-built web application** that allows employees to:
 
-- Register using their staff ID (linked to payroll for salary deductions)
-- Browse a daily updated menu with prices
-- Place and edit orders before an 11:00 AM cutoff
-- Choose between canteen dining or desk delivery
-- Receive order confirmation notifications
-- Submit feedback on food quality and delivery
 
 ### Key Features
 - User-friendly interface
@@ -89,7 +83,8 @@ The project backlog was managed in **Jira (Scrum, Team-managed)** under the proj
 | Sprint 2 | 2 Aug – 16 Aug | Create menu and place orders |
 | Sprint 3 | 17 Aug – 7 Sep | Delivery, payroll deductions & feedback |
 
-Screenshots of the Jira backlog and sprint boards are included in the [`/screenshots`](./screenshots) folder.
+### Jira Backlog
+![Jira Backlog](/Jira%20Backlog.png)
 
 
 ---
