@@ -32,7 +32,9 @@ Unilever's existing canteen system was plagued by long queues, limited food choi
 | Reduce required canteen manpower | Via automation & desk delivery | Ongoing |
 
 ---
-
+##  AS-IS Process
+![AS-IS Process](./screenshots/as-is-process.png)
+---
 ## ✅ Proposed Solution
 
 A **custom-built web application** that allows employees to:
