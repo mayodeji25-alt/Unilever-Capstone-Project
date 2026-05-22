@@ -52,30 +52,6 @@ A **custom-built web application** that allows employees to:
 - Automated payroll deduction integration
 - Security and privacy controls
 
----
-
-## 👥 Stakeholders
-
-| Stakeholder | Impact | Influence |
-|-------------|--------|-----------|
-| Management | High | High |
-| Employees | High | Low |
-| IT Department | Medium | High |
-| Catering Department | High | Medium |
-| Accounts Department | Low | Low |
-| Procurement | High | Low |
-| Logistics | Low | Medium |
-| Quality Control | Low | High |
-
----
-
-## 🔄 Process Mapping
-
-### AS-IS Process (Current)
-Employee walks to canteen → checks menu → queues 20 mins to order → waits up to 10 mins for a table → eats → returns to workstation
-
-### TO-BE Process (Proposed)
-Employee orders online before 11 AM → Canteen Manager reviews orders → Chef prepares exact quantities → Delivery to workstation → Payroll deduction applied automatically → Employee submits feedback
 
 ---
 
@@ -111,15 +87,6 @@ The project backlog was managed in **Jira (Scrum, Team-managed)** under the proj
 
 Screenshots of the Jira backlog and sprint boards are included in the [`/screenshots`](./screenshots) folder.
 
----
-
-## 💰 Budget Estimate
-
-| Item | Cost |
-|------|------|
-| Web Development (Avenga) | £17,500 |
-| Project Management & Logistics (CMS Express) | £20,500 |
-| **Total** | **£38,000** |
 
 ---
 
@@ -161,7 +128,6 @@ Screenshots of the Jira backlog and sprint boards are included in the [`/screens
 
 **Team Agile — April 2023 Cohort**
 📍 New Brunswick, Canada
-📧 teamagile@gmail.com
 
 ---
 
@@ -178,8 +144,3 @@ Screenshots of the Jira backlog and sprint boards are included in the [`/screens
 │   └── TEAM_AGILE_CAPSTONE_PROJECT.pdf
 ```
 
----
-
-## 📄 License
-
-This project was created for educational purposes as part of a Business Analysis training program.
