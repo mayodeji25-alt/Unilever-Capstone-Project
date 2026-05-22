@@ -2,7 +2,7 @@
 
 A Business Analysis capstone project designed by **Team Agile** (April 2023 Cohort), proposing a web-based canteen ordering system to improve the employee dining experience at Unilever's UK offices.
 
-## 📄[View the full project PDF](Agile_Team/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
+## 📄[View the full project PDF](/Agile_Team/TEAM%20AGILE_CAPSTONE%20PROJECT.pdf)
 
 ---
 
