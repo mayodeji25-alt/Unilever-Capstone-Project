@@ -4,6 +4,10 @@ A Business Analysis capstone project designed by **Team Agile** (April 2023 Coho
 
 ---
 
+## 📄 Full Project Document
+[View the full project PDF](./docs/TEAM_AGILE_CAPSTONE_PROJECT.pdf)
+
+
 ## 📌 Project Overview
 
 Unilever's existing canteen system was plagued by long queues, limited food choices, overcrowding, and significant food wastage. This project proposes a **custom-built Online Canteen Ordering System (UCOS)** to streamline the entire lunch ordering and delivery process for approximately 1,500 employees.
